@@ -2,8 +2,6 @@
 
 These are the statistics for the CALHM2 mitochondrial paper. The data contains a mix of parametric and non-parametric tests.
 
-# Comparative Analysis of Calhm2 KD Impact on Mitochondrial Dynamics
-
 ## Overview
 This repository contains data and R scripts for analyzing the effects of Calhm2 knockdown (KD) on mitochondrial dynamics, focusing on mitochondrial membrane potential and cristae morphology. Our study aims to elucidate the role of Calhm2 in mitochondrial integrity and function.
 
@@ -23,5 +21,3 @@ To replicate my analysis:
 2. **Statistical Testing**: Includes normality tests, homogeneity tests, and comparison tests (t-tests, Mann-Whitney U tests).
 3. **Visualization**: Generation of plots to visualize the differences between control and Calhm2 KD groups.
 
-## Acknowledgments
-I thank all contributors to this project and the broader scientific community for their interest and engagement with my research.
