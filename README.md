@@ -24,3 +24,4 @@ To replicate my analysis:
 2. **Statistical Testing**: Includes normality tests, homogeneity tests, and comparison tests (t-tests, Mann-Whitney U tests).
 3. **Visualization**: Generation of plots to visualize the differences between control and Calhm2 KD groups.
 
+![control](https://github.com/andrewrobson3000/Quantitative-Analytics-In-Mitochondrial-Research/assets/87878168/0a373380-f4bb-4ee3-8472-5f4a3d7e89cb)
